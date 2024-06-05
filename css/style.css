@@ -12,7 +12,12 @@ p{
     font-size: xx-large;
     font-style: italic;
     background-image:  url("../images/beach.jpg");
+    
 } 
-p{
-    background-image:image-set(100% 100%, 100% 100);
+/*  
+.coff
+{
+background-color: rgb(23, 212, 212);
 }
+*/
+style
