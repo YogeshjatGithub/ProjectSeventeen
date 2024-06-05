@@ -8,11 +8,11 @@
 p{
     padding: 100px;
     margin:100px;
-    color: rgb(181, 4, 169);
-    font-size: x-small;
+    color: rgb(48, 234, 67);
+    font-size: xx-large;
     font-style: italic;
-    background-image:  url("../images/car.webp");
+    background-image:  url("../images/beach.jpg");
 } 
-img{
-    width: 100%;
+p{
+    background-image:image-set(100% 100%, 100% 100);
 }
