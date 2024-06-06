@@ -14,9 +14,12 @@ p{
     background-image:  url("../images/beach.jpg");
     
 } 
-/*  
+ 
 .coff
 {
 background-color: rgb(23, 212, 212);
 }
-*/
+
+#tea{
+    background-color: rgb(215, 26, 26);
+}
